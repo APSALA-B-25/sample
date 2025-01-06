@@ -1,0 +1,16 @@
+.p1{
+    border:2px solid blue;
+    left:1px;
+    right:5px;
+    top:2px;
+    position:sticky;
+    width:500px;
+}
+.p2{
+    position:sticky;
+    border:2px solid red;
+    left:1px;
+    right:5px;
+    top:50px;
+    width:550px;
+}
