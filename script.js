@@ -1,6 +1,6 @@
 function example2(){
     document.getElementById('ex').
-    externalHTML="External from Script";
+    externalHTML="From External Script";
 }
 function handleLogin()
 {
